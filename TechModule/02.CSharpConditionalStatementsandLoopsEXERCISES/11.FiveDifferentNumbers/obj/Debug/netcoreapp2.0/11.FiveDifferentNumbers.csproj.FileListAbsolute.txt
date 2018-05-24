@@ -1,0 +1,11 @@
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11.FiveDifferentNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11.FiveDifferentNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11.FiveDifferentNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11.FiveDifferentNumbers.AssemblyInfo.cs
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11.FiveDifferentNumbers.deps.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11.FiveDifferentNumbers.runtimeconfig.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11.FiveDifferentNumbers.runtimeconfig.dev.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11.FiveDifferentNumbers.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\bin\Debug\netcoreapp2.0\11.FiveDifferentNumbers.pdb
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11.FiveDifferentNumbers.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\11.FiveDifferentNumbers\obj\Debug\netcoreapp2.0\11.FiveDifferentNumbers.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\bin\Debug\netcoreapp2.0\Problem05.BPMCounter.deps.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\bin\Debug\netcoreapp2.0\Problem05.BPMCounter.runtimeconfig.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\bin\Debug\netcoreapp2.0\Problem05.BPMCounter.runtimeconfig.dev.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\bin\Debug\netcoreapp2.0\Problem05.BPMCounter.dll
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\bin\Debug\netcoreapp2.0\Problem05.BPMCounter.pdb
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\obj\Debug\netcoreapp2.0\Problem05.BPMCounter.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\obj\Debug\netcoreapp2.0\Problem05.BPMCounter.AssemblyInfoInputs.cache
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\obj\Debug\netcoreapp2.0\Problem05.BPMCounter.AssemblyInfo.cs
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\obj\Debug\netcoreapp2.0\Problem05.BPMCounter.dll
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem05.BPMCounter\obj\Debug\netcoreapp2.0\Problem05.BPMCounter.pdb

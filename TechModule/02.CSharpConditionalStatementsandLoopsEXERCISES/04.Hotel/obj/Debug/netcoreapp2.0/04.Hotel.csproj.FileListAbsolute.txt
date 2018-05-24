@@ -1,0 +1,10 @@
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.deps.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.runtimeconfig.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.runtimeconfig.dev.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.pdb
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.AssemblyInfoInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.AssemblyInfo.cs
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.pdb

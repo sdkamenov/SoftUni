@@ -1,0 +1,10 @@
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\bin\Debug\netcoreapp2.0\10.TriangleOfNumbers.deps.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\bin\Debug\netcoreapp2.0\10.TriangleOfNumbers.runtimeconfig.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\bin\Debug\netcoreapp2.0\10.TriangleOfNumbers.runtimeconfig.dev.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\bin\Debug\netcoreapp2.0\10.TriangleOfNumbers.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\bin\Debug\netcoreapp2.0\10.TriangleOfNumbers.pdb
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\obj\Debug\netcoreapp2.0\10.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\obj\Debug\netcoreapp2.0\10.TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\obj\Debug\netcoreapp2.0\10.TriangleOfNumbers.AssemblyInfo.cs
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\obj\Debug\netcoreapp2.0\10.TriangleOfNumbers.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\10.TriangleOfNumbers\obj\Debug\netcoreapp2.0\10.TriangleOfNumbers.pdb

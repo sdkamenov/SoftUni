@@ -1,0 +1,10 @@
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\bin\Debug\netcoreapp2.0\06.IntervalofNumbers.deps.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\bin\Debug\netcoreapp2.0\06.IntervalofNumbers.runtimeconfig.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\bin\Debug\netcoreapp2.0\06.IntervalofNumbers.runtimeconfig.dev.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\bin\Debug\netcoreapp2.0\06.IntervalofNumbers.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\bin\Debug\netcoreapp2.0\06.IntervalofNumbers.pdb
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\obj\Debug\netcoreapp2.0\06.IntervalofNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\obj\Debug\netcoreapp2.0\06.IntervalofNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\obj\Debug\netcoreapp2.0\06.IntervalofNumbers.AssemblyInfo.cs
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\obj\Debug\netcoreapp2.0\06.IntervalofNumbers.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\06.IntervalofNumbers\obj\Debug\netcoreapp2.0\06.IntervalofNumbers.pdb

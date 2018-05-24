@@ -1,0 +1,6 @@
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\04. Beverage Labels\obj\Debug\04. Beverage Labels.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\obj\Debug\netcoreapp2.0\Problem06.DNASequences.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\obj\Debug\netcoreapp2.0\Problem06.DNASequences.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\obj\Debug\netcoreapp2.0\Problem06.DNASequences.AssemblyInfoInputs.cache
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\obj\Debug\netcoreapp2.0\Problem06.DNASequences.AssemblyInfo.cs
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\bin\Debug\netcoreapp2.0\Problem06.DNASequences.deps.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\bin\Debug\netcoreapp2.0\Problem06.DNASequences.runtimeconfig.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\bin\Debug\netcoreapp2.0\Problem06.DNASequences.runtimeconfig.dev.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\bin\Debug\netcoreapp2.0\Problem06.DNASequences.dll
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\bin\Debug\netcoreapp2.0\Problem06.DNASequences.pdb
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\obj\Debug\netcoreapp2.0\Problem06.DNASequences.dll
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem06.DNASequences\obj\Debug\netcoreapp2.0\Problem06.DNASequences.pdb

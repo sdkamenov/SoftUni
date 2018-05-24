@@ -1,0 +1,10 @@
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\bin\Debug\netcoreapp2.0\14.MagicLetter.deps.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\bin\Debug\netcoreapp2.0\14.MagicLetter.runtimeconfig.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\bin\Debug\netcoreapp2.0\14.MagicLetter.runtimeconfig.dev.json
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\bin\Debug\netcoreapp2.0\14.MagicLetter.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\bin\Debug\netcoreapp2.0\14.MagicLetter.pdb
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\obj\Debug\netcoreapp2.0\14.MagicLetter.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\obj\Debug\netcoreapp2.0\14.MagicLetter.AssemblyInfoInputs.cache
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\obj\Debug\netcoreapp2.0\14.MagicLetter.AssemblyInfo.cs
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\obj\Debug\netcoreapp2.0\14.MagicLetter.dll
+D:\SoftUni\TechModule\CSharpConditionalStatementsandLoopsExercises\14.MagicLetter\obj\Debug\netcoreapp2.0\14.MagicLetter.pdb

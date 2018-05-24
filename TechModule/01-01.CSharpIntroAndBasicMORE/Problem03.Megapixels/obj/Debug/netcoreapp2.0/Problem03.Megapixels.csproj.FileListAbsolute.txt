@@ -1,0 +1,11 @@
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\bin\Debug\netcoreapp2.0\Problem03.Megapixels.deps.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\bin\Debug\netcoreapp2.0\Problem03.Megapixels.runtimeconfig.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\bin\Debug\netcoreapp2.0\Problem03.Megapixels.runtimeconfig.dev.json
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\bin\Debug\netcoreapp2.0\Problem03.Megapixels.dll
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\bin\Debug\netcoreapp2.0\Problem03.Megapixels.pdb
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\obj\Debug\netcoreapp2.0\Problem03.Megapixels.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\obj\Debug\netcoreapp2.0\Problem03.Megapixels.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\obj\Debug\netcoreapp2.0\Problem03.Megapixels.AssemblyInfoInputs.cache
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\obj\Debug\netcoreapp2.0\Problem03.Megapixels.AssemblyInfo.cs
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\obj\Debug\netcoreapp2.0\Problem03.Megapixels.dll
+D:\SoftUni\TechModule\01-01.CSharpIntroAndBasicMORE\Problem03.Megapixels\obj\Debug\netcoreapp2.0\Problem03.Megapixels.pdb

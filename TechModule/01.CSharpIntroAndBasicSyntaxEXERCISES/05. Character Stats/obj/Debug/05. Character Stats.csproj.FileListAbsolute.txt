@@ -1,0 +1,6 @@
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\05. Character Stats\obj\Debug\05. Character Stats.csproj.CoreCompileInputs.cache
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\05. Character Stats\obj\Debug\_05.Character_Stats.pdb
