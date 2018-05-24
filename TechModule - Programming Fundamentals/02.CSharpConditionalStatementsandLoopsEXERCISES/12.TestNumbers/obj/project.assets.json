@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\12.TestNumbers\\12.TestNumbers.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\12.TestNumbers\\12.TestNumbers.csproj",
       "projectName": "12.TestNumbers",
-      "projectPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\12.TestNumbers\\12.TestNumbers.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\12.TestNumbers\\12.TestNumbers.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\12.TestNumbers\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\12.TestNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

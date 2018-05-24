@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\15.NeighbourWars\\15.NeighbourWars.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\15.NeighbourWars\\15.NeighbourWars.csproj",
       "projectName": "15.NeighbourWars",
-      "projectPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\15.NeighbourWars\\15.NeighbourWars.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\15.NeighbourWars\\15.NeighbourWars.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\15.NeighbourWars\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\15.NeighbourWars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\08.CaloriesCounter\\08.CaloriesCounter.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\08.CaloriesCounter\\08.CaloriesCounter.csproj",
       "projectName": "08.CaloriesCounter",
-      "projectPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\08.CaloriesCounter\\08.CaloriesCounter.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\08.CaloriesCounter\\08.CaloriesCounter.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\08.CaloriesCounter\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\08.CaloriesCounter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

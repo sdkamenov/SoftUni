@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\11.FiveDifferentNumbers\\11.FiveDifferentNumbers.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\11.FiveDifferentNumbers\\11.FiveDifferentNumbers.csproj",
       "projectName": "11.FiveDifferentNumbers",
-      "projectPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\11.FiveDifferentNumbers\\11.FiveDifferentNumbers.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\11.FiveDifferentNumbers\\11.FiveDifferentNumbers.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\11.FiveDifferentNumbers\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\11.FiveDifferentNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

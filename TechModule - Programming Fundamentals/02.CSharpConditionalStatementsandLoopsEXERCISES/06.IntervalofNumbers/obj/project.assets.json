@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\06.IntervalofNumbers\\06.IntervalofNumbers.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\06.IntervalofNumbers\\06.IntervalofNumbers.csproj",
       "projectName": "06.IntervalofNumbers",
-      "projectPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\06.IntervalofNumbers\\06.IntervalofNumbers.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\06.IntervalofNumbers\\06.IntervalofNumbers.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\02.CSharpConditionalStatementsandLoopsEXERCISES\\06.IntervalofNumbers\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\02.CSharpConditionalStatementsandLoopsEXERCISES\\06.IntervalofNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
