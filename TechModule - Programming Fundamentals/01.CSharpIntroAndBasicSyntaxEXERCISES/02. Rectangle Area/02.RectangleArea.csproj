@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9306D4B3-F176-45BB-B47D-CF298ED96544}</ProjectGuid>
+    <ProjectGuid>{FE57CEA5-B073-406A-AEA5-3CA9CC810D40}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_03.Miles_to_Kilometers</RootNamespace>
-    <AssemblyName>_03.Miles_to_Kilometers</AssemblyName>
+    <RootNamespace>_02.Rectangle_Area</RootNamespace>
+    <AssemblyName>_02.Rectangle_Area</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="02.RectangleArea.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
