@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\01.PracticeIntegerNumbers\\01.PracticeIntegerNumbers.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\01.PracticeIntegerNumbers\\01.PracticeIntegerNumbers.csproj",
       "projectName": "01.PracticeIntegerNumbers",
-      "projectPath": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\01.PracticeIntegerNumbers\\01.PracticeIntegerNumbers.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\01.PracticeIntegerNumbers\\01.PracticeIntegerNumbers.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\01.PracticeIntegerNumbers\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\01.PracticeIntegerNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

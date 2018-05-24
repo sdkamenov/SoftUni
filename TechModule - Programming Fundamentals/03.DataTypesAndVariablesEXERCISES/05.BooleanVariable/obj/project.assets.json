@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\05.BooleanVariable\\05.BooleanVariable.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\05.BooleanVariable\\05.BooleanVariable.csproj",
       "projectName": "05.BooleanVariable",
-      "projectPath": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\05.BooleanVariable\\05.BooleanVariable.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\05.BooleanVariable\\05.BooleanVariable.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\05.BooleanVariable\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\05.BooleanVariable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

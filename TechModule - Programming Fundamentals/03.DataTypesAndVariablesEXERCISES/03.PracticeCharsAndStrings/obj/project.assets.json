@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\03.PracticeCharsAndStrings\\03.PracticeCharsAndStrings.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\03.PracticeCharsAndStrings\\03.PracticeCharsAndStrings.csproj",
       "projectName": "03.PracticeCharsAndStrings",
-      "projectPath": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\03.PracticeCharsAndStrings\\03.PracticeCharsAndStrings.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\03.PracticeCharsAndStrings\\03.PracticeCharsAndStrings.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\03.DataTypesAndVariablesEXERCISES\\03.PracticeCharsAndStrings\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\03.DataTypesAndVariablesEXERCISES\\03.PracticeCharsAndStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
