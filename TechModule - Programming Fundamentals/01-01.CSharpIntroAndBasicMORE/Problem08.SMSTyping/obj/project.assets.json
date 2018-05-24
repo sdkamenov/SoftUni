@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem08.SMSTyping\\Problem08.SMSTyping.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem08.SMSTyping\\Problem08.SMSTyping.csproj",
       "projectName": "Problem08.SMSTyping",
-      "projectPath": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem08.SMSTyping\\Problem08.SMSTyping.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem08.SMSTyping\\Problem08.SMSTyping.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem08.SMSTyping\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem08.SMSTyping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

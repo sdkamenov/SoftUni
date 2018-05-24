@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem1.X\\Problem01.X.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem1.X\\Problem01.X.csproj",
       "projectName": "Problem01.X",
-      "projectPath": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem1.X\\Problem01.X.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem1.X\\Problem01.X.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem1.X\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem1.X\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

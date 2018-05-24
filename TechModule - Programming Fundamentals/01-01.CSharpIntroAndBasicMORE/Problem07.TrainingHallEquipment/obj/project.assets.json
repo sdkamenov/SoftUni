@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem07.TrainingHallEquipment\\Problem07.TrainingHallEquipment.csproj",
+      "projectUniqueName": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem07.TrainingHallEquipment\\Problem07.TrainingHallEquipment.csproj",
       "projectName": "Problem07.TrainingHallEquipment",
-      "projectPath": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem07.TrainingHallEquipment\\Problem07.TrainingHallEquipment.csproj",
+      "projectPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem07.TrainingHallEquipment\\Problem07.TrainingHallEquipment.csproj",
       "packagesPath": "C:\\Users\\kamenov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\01-01.CSharpIntroAndBasicMORE\\Problem07.TrainingHallEquipment\\obj\\",
+      "outputPath": "D:\\SoftUni\\TechModule - Programming Fundamentals\\01-01.CSharpIntroAndBasicMORE\\Problem07.TrainingHallEquipment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
