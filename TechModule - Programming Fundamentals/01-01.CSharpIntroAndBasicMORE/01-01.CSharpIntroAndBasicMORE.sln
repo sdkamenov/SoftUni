@@ -9,15 +9,20 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem02.VaporStore", "Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem03.Megapixels", "Problem03.Megapixels\Problem03.Megapixels.csproj", "{2677CF57-20D7-4A33-AFBC-17958301DD23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04.PhotoGallery", "Problem04.PhotoGallery\Problem04.PhotoGallery.csproj", "{3D567FFE-1933-43CD-A08F-029DA6BB8DFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem04.PhotoGallery", "Problem04.PhotoGallery\Problem04.PhotoGallery.csproj", "{3D567FFE-1933-43CD-A08F-029DA6BB8DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem05.BPMCounter", "Problem05.BPMCounter\Problem05.BPMCounter.csproj", "{2DD48235-8A9A-4DA5-9FB5-F1546C18CBB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem05.BPMCounter", "Problem05.BPMCounter\Problem05.BPMCounter.csproj", "{2DD48235-8A9A-4DA5-9FB5-F1546C18CBB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem06.DNASequences", "Problem06.DNASequences\Problem06.DNASequences.csproj", "{4ADE8988-04E1-4035-832B-56836C9E98C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem06.DNASequences", "Problem06.DNASequences\Problem06.DNASequences.csproj", "{4ADE8988-04E1-4035-832B-56836C9E98C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem07.TrainingHallEquipment", "Problem07.TrainingHallEquipment\Problem07.TrainingHallEquipment.csproj", "{4435307A-CA25-48A1-94CD-F92B4532F7BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem07.TrainingHallEquipment", "Problem07.TrainingHallEquipment\Problem07.TrainingHallEquipment.csproj", "{4435307A-CA25-48A1-94CD-F92B4532F7BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem08.SMSTyping", "Problem08.SMSTyping\Problem08.SMSTyping.csproj", "{BF62AE13-6ED7-4AD4-9D32-17761DBFD5F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem08.SMSTyping", "Problem08.SMSTyping\Problem08.SMSTyping.csproj", "{BF62AE13-6ED7-4AD4-9D32-17761DBFD5F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A04B4EDB-AA63-4771-AFDE-1219E6DD0C92}"
+	ProjectSection(SolutionItems) = preProject
+		02. Programming-Fundamentals-CSharp-Basics-More-Exercises.docx = 02. Programming-Fundamentals-CSharp-Basics-More-Exercises.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
