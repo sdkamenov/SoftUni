@@ -1,0 +1,64 @@
+.innerBorder {
+    border: 2px solid green;
+    border-radius: 2px;
+    padding: 1cm;
+    text-align: center;
+    font-size-adjust: initial;
+}
+
+.middleBorder {
+    border-radius: 5px;
+    border: dashed red 1px;
+    padding: 1cm;
+}
+
+.outsideBorder {
+    border: dotted blue 3px;
+    padding: 1cm;
+    border-radius: 5px;
+}
+
+.lang {
+    border: 1px #AAA;
+    border-radius: 10px;
+    background: #CCC;
+    padding: 5px;
+}
+
+#bodyStyle {
+    background: #EEE;
+    line-height: 1.5em;
+    font-size: 24pt;
+}
+
+.textBox {
+    align-items: right;
+}
+
+form {
+    background: #eee;
+    display: inline-block;
+}
+
+form span {
+    display: inline-block;
+    width: 80px;
+    background: #eee;
+    margin: 10px 3px 3px 8px;
+}
+
+form input, form select {
+    width: 150px;
+    height: 20px;
+    margin: 0px 5px;
+    box-sizing: border-box;
+}
+form select {
+    margin: 5px;
+}
+form input[type='submit']{
+    display: block;
+    margin: 10px 0 12px 98px;
+    width: 80px;
+    height: 30px;
+}
