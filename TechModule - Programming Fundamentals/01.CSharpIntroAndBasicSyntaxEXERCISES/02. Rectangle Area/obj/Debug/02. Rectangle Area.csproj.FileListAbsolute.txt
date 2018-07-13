@@ -1,6 +1,0 @@
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\02. Rectangle Area\obj\Debug\02. Rectangle Area.csproj.CoreCompileInputs.cache
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

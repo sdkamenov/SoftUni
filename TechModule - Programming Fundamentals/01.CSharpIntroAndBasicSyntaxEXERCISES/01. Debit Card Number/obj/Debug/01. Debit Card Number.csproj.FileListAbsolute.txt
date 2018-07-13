@@ -1,7 +1,0 @@
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.exe.config
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.exe
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.pdb
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\01. Debit Card Number\obj\Debug\01. Debit Card Number.csprojResolveAssemblyReference.cache
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\01. Debit Card Number\obj\Debug\01. Debit Card Number.csproj.CoreCompileInputs.cache
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\01. Debit Card Number\obj\Debug\_01.Debit_Card_Number.exe
-D:\SoftUni\TechModule\CSharpIntroAndBasicSyntaxExercises\01. Debit Card Number\obj\Debug\_01.Debit_Card_Number.pdb
