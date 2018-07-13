@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+books/Intro-CSharp-Book-v2015.pdf
+books/Introduction-to-Programing-with-Java-Book-v2017.pdf
+books/programming-basics-csharp-bg.pdf
+books/programming-basics-java-bg.pdf
