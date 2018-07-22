@@ -5,6 +5,7 @@ module.exports = {
     createGet: function (req, res) {
         res.render('article/create');
     },
+
     createPost: function (req, res) {
         let articleArgs = req.body;
 
@@ -35,6 +36,7 @@ module.exports = {
                 res.redirect('/');
             })
     },
+
     details: function (req, res) {
         let articleId = req.params.id;
 
@@ -45,7 +47,55 @@ module.exports = {
                 }]
             })
             .then(article => {
-            res.render('article/details', article.dataValues)
-        });
+                res.render('article/details', article.dataValues)
+            });
+    },
+
+    editGet: function (req, res) {
+        let articleId = req.params.id;
+
+        Article
+            .findById(articleId)
+            .then(article => {
+                res.render('article/edit', article.dataValues)
+            });
+    },
+
+    editPost: function (req, res) {
+        let articleArgs = req.body;
+        let articleId = req.params.id;
+
+        Article
+            .findById(articleId)
+            .then(article => {
+                article.update(articleArgs)
+                    .then(() => {
+                        res.redirect('/');
+                    })
+            })
+    },
+
+    deleteGet: function (req, res) {
+        let articleId = req.params.id;
+
+        Article
+            .findById(articleId)
+            .then(article => {
+                res.render('article/delete', article.dataValues)
+            });
+    },
+
+    deletePost: function (req, res) {
+        let articleId = req.params.id;
+
+        Article
+            .findById(articleId)
+            .then(article => {
+                article
+                    .destroy()
+                    .then(() => {
+                        res.redirect('/');
+                    })
+            });
     }
 };

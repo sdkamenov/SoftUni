@@ -1,5 +1,6 @@
 const encryption = require("../utilities/encryption");
 const User = require('../models').User;
+const Article = require('../models').Article;
 
 module.exports = {
     registerGet: (req, res) => {
@@ -67,6 +68,17 @@ module.exports = {
 
                 res.redirect('/');
             })
+        })
+    },
+
+    articleGet: (req, res) => {
+        let userId = req.user.id;
+
+        Article.findAll({where: {authorId: userId}})
+            .then(articles => {
+                res.render('user/myarticles', {articles: articles});
+            }).catch(err => {
+            console.log(err.message);
         })
     },
 
