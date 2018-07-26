@@ -1,0 +1,62 @@
+{% extends 'base.html.twig' %}
+{% block main %}
+    <div class="container body-content">
+        <h1>Welcome to the 75th Hunger Games!!!</h1>
+        <br>
+        <div class="row">
+            {% for article in articles %}
+                {#|slice(0, articles|length/2)#}
+                <div class="col-sm-6half well" style="word-wrap: break-word">
+                    <article>
+                        <header>
+                            <h2 style="margin-top: 10px">{{ article.titleSummary }}</h2>
+                        </header>
+
+                        <p>
+                            {{ article.summary }}
+                        </p>
+                        <div>
+                            <small class="author">
+                                {{ article.author.fullName }}
+                            </small>
+
+                            <footer>
+                                <div class="pull-right">
+                                    <a class="btn btn-primary btn-xs"
+                                       href="{{ path('article_details', {'id':article.id}) }}">Read more &raquo;</a>
+                                </div>
+                            </footer>
+                        </div>
+                    </article>
+                </div>
+            {% endfor %}
+            {#NOoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooPE#}
+            {#{% for article in articles|slice(articles|length/2, articles|length) %}#}
+                {#<div class="col-sm-6half well" style="word-wrap: break-word">#}
+                    {#<article>#}
+                        {#<header>#}
+                            {#<h2 style="margin-top: 10px">{{ article.titleSummary }}</h2>#}
+                        {#</header>#}
+
+                        {#<p>#}
+                            {#{{ article.summary }}#}
+                        {#</p>#}
+                        {#<div>#}
+                            {#<small class="author">#}
+                                {#{{ article.author.fullName }}#}
+                            {#</small>#}
+
+                            {#<footer>#}
+                                {#<div class="pull-right">#}
+                                    {#<a class="btn btn-primary btn-xs"#}
+                                       {#href="{{ path('article_details', {'id':article.id}) }}">Read more &raquo;</a>#}
+                                {#</div>#}
+                            {#</footer>#}
+                        {#</div>#}
+                    {#</article>#}
+                {#</div>#}
+            {#{% endfor %}#}
+            {#NOoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooPE#}
+        </div>
+    </div>
+{% endblock %}
