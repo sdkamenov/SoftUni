@@ -205,4 +205,3 @@ class Article
         return $titleSummary;
     }
 }
-
