@@ -2,16 +2,14 @@
 
 # <a href="https://softuni.bg/trainings/1940/software-technologies-july-2018"><p align="center">Software Technologies - July 2018<p></a>
 
-## <p align="center"> <a href="https://softuni.bg/certificates/details/56728/42902bf4" > \_( [- /? ~|~ | /= | ( /\ ~|~ [-
-
-                               _ </a> </p>
+## <p align="center"> <a href="https://softuni.bg/certificates/details/56728/42902bf4" > _CERTIFICATE_ </a> </p>
 
 Technologies used in this course:
 
 ## JAVASCRIPT
 
 - NodeJS + ExpressJS frameworks
-- Handlebars.js view engine
+- View Engine: Handlebars.js
 - Sequelzie ORM
 - MySQL database
 
@@ -20,7 +18,7 @@ Technologies used in this course:
 ## PHP
 
 - Symfony framework
-- Twig view engine
+- View Engine: Twig
 - Doctrine ORM
 - MySQL database
 
@@ -29,7 +27,7 @@ Technologies used in this course:
 ## JAVA
 
 - Spring framework (Spring MVC + Spring Boot + Spring Data)
-- Thymeleaf view engine
+- View Engine: Thymeleaf
 - JPA / Hibernate ORM + Spring Data data access
 - MySQL database
 
@@ -38,6 +36,6 @@ Technologies used in this course:
 ## C
 
 - ASP.NET Core 2.0 (ASP.NET MVC + Entity Framework Core)
-- Razor view engine
+- View Engine: Razor
 - Entity Framework Core ORM
 - MySQL database
