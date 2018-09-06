@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'profile' %}
+
+{% block main %}
+    <h1>That's one hella ugly profile page...
+        <img style="width: 100px;  height: 100px;" src="{{ asset('smug.png') }}">
+        <img style="width: 100px;  height: 100px;" src="{{ asset('man-shrugging_1f937-200d-2642-fe0f (1).png') }}">
+
+    </h1>
+    <br>
+    <div style="font-size: 25px">
+        <span>E-Mail:     </span> {{ user.email }}
+        <br>
+        <span>Name:     </span> {{ user.fullName }}
+    </div>
+
+{% endblock %}
+
