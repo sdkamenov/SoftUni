@@ -6,7 +6,7 @@
 
 ## JAVASCRIPT
 
--     NodeJS + ExpressJS frameworks
+- NodeJS + ExpressJS frameworks
 - Handlebars.js view engine
 - Sequelzie ORM
 - MySQL database
@@ -15,7 +15,7 @@
 
 ## PHP
 
--     Symfony framework
+- Symfony framework
 - Twig view engine
 - Doctrine ORM
 - MySQL database
