@@ -1,4 +1,4 @@
-<p  align="center"><img  src="https://softuni.bg/content/images/svg-logos/software-university-logo.svg"  /></p>
+<a href="https://softuni.bg"><p  align="center"><img  src="https://softuni.bg/content/images/svg-logos/software-university-logo.svg"  /></p></a>
 
   
 
@@ -14,7 +14,7 @@
 
   
 
-### JAVASCRIPT
+### JavaScript
 
   
 
@@ -50,7 +50,7 @@
 
   
 
-### JAVA
+### Java
 
   
 
