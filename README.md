@@ -4,8 +4,8 @@
 
   - [Tech Module - May 2018](https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module)
 	  --- 
-	   -	[Programming Fundamentals - May 2018](https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module/Programming%20Fundamentals)
-	   -	[Software Technologies - July 2018](https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module/Software%20Technologies)
+	   -	[Programming Fundamentals - May 2018](https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module/Programming%20Fundamentals)  -  [](https://softuni.bg/certificates/details/55658/d89e2db5)
+	   -	[Software Technologies - July 2018](https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module/Software%20Technologies)  -  [](https://softuni.bg/certificates/details/56728/42902bf4)
   
   
   - [C# Fundamentals - September 2018](https://github.com/sdkamenov/SoftUni/tree/master/C%23%20Fundamentals)
