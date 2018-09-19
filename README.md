@@ -21,16 +21,14 @@
 	  - [JS Advanced - October 2018](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core/JS%20Advanced)
 	  - [JS Applications - November 2018](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core/JS%20Applications) 
    
-  - 
-   
-  - 
-   
-  - 
-   
-  - 
-   
-  - 
-   
-  - 
-   
-  - 
+  - [](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core)
+	  ---
+	  - [](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core/JS%20Fundamentals)                       -  []()
+	  - [](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core/JS%20Advanced)                       -  []()
+	  - [](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core/JS%20Applications)                        -  []()
+	  
+  - [](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core)
+	  ---
+	  - [](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core/JS%20Fundamentals)                       -  []()
+	  - [](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core/JS%20Advanced)                       -  []()
+	  - [](https://github.com/sdkamenov/SoftUni/tree/master/JS%20Core/JS%20Applications)                        -  []()
