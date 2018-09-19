@@ -14,7 +14,7 @@
 
   
 
-### <a href="https://github.com/sdkamenov/SoftUni/tree/master/Software%20Technologies/JavaScript">JavaScript</a>
+### <a href="https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module/Software%20Technologies/JavaScript">JavaScript</a>
 
   
 
@@ -32,7 +32,7 @@
 
   
 
-### <a href="https://github.com/sdkamenov/SoftUni/tree/master/Software%20Technologies/PHP">PHP</a>
+### <a href="https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module/Software%20Technologies/PHP">PHP</a>
 
   
 
@@ -50,7 +50,7 @@
 
   
 
-### <a href="https://github.com/sdkamenov/SoftUni/tree/master/Software%20Technologies/Java">Java</a>
+### <a href="https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module/Software%20Technologies/Java">Java</a>
 
   
 
@@ -68,7 +68,7 @@
 
   
 
-### <a href="https://github.com/sdkamenov/SoftUni/tree/master/Software%20Technologies/C%23">C#</a>
+### <a href="https://github.com/sdkamenov/SoftUni/tree/master/Tech%20Module/Software%20Technologies/C%23">C#</a>
 
   
 
