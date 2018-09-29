@@ -1,88 +1,54 @@
-function solve([title, day]) {
-    title = title.toLowerCase();
-    day = day.toLowerCase();
-    let price;
-    if (title == "the godfather") {
-        switch (day) {
-            case "monday":
-                price = 12;
-                break;
-            case "tuesday":
-                price = 10;
-                break;
-            case "wednesday":
-                price = 15;
-                break;
-            case "thursday":
-                price = "12.50";
-                break;
-            case "friday":
-                price = 15;
-                break;
-            case "saturday":
-                price = 25;
-                break;
-            case "sunday":
-                price = 30;
-                break;
-            default:
-                price = "error";
-                break;
-        }
-    } else if (title == "schindler's list") {
-        switch (day) {
-            case "monday":
-            case "tuesday":
-            case "wednesday":
-            case "thursday":
-            case "friday":
-                price = "8.50";
-                break;
-            case "saturday":
-            case "sunday":
-                price = 15;
-                break;
-            default:
-                price = "error";
-                break;
-        }
-    } else if (title == "casablanca") {
-        switch (day) {
-            case "monday":
-            case "tuesday":
-            case "wednesday":
-            case "thursday":
-            case "friday":
-                price = 8;
-                break;
-            case "saturday":
-            case "sunday":
-                price = 10;
-                break;
-            default:
-                price = "error";
-                break;
-        }
-    } else if (title == "the wizard of oz") {
-        switch (day) {
-            case "monday":
-            case "tuesday":
-            case "wednesday":
-            case "thursday":
-            case "friday":
-                price = 10;
-                break;
-            case "saturday":
-            case "sunday":
-                price = 15;
-                break;
-            default:
-                price = "error";
-                break;
-        }
+function moviePrice(input) {
+    let movie = input[0].toLowerCase();
+    let day = input[1].toLowerCase();
+
+    let result = '';
+
+    if (movie === 'The Godfather'.toLowerCase()) {
+        result = getPrice(day, [12, 10, 15, 12.5, 15, 25, 30]);
+    } else if (movie === 'Schindler\'s List'.toLowerCase()) {
+        result = getPrice(day, [8.50, 8.50, 8.50, 8.50, 8.50, 15, 15]);
+    } else if (movie === 'Casablanca'.toLowerCase()) {
+        result = getPrice(day, [8, 8, 8, 8, 8, 10, 10]);
+    } else if (movie === 'The Wizard of Oz'.toLowerCase()) {
+        result = getPrice(day, [10, 10, 10, 10, 10, 15, 15]);
     } else {
-        price = "error"
+        result = 'error';
     }
 
-    console.log(price);
+    function getPrice(day, prices) {
+        let result = '';
+
+        switch (day) {
+            case 'Monday'.toLowerCase():
+                result = prices[0];
+                break;
+            case 'Tuesday'.toLowerCase():
+                result = prices[1];
+                break;
+            case 'Wednesday'.toLowerCase():
+                result = prices[2];
+                break;
+            case 'Thursday'.toLowerCase():
+                result = prices[3];
+                break;
+            case 'Friday'.toLowerCase():
+                result = prices[4];
+                break;
+            case 'Saturday'.toLowerCase():
+                result = prices[5];
+                break;
+            case 'Sunday'.toLowerCase():
+                result = prices[6];
+                break;
+            default:
+                result = 'error';
+        }
+
+        return result;
+    }
+    console.log(result);
 }
+
+
+_________________________________________________________________
