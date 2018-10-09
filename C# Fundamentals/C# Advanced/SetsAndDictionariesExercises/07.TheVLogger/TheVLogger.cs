@@ -52,13 +52,13 @@ namespace TheVLogger
 
             foreach (var item in sortedVlogs)
             {
-                Console.WriteLine($"{counter++}. {item.Key} : {item.Value["followers"].Count} followers, {item.Value["following"].Count} following");
+                Console.WriteLine($"{counter}. {item.Key} : {item.Value["followers"].Count} followers, {item.Value["following"].Count} following");
 
                 if (counter == 1)
                 {
                     foreach (var followerName in item.Value["followers"])
                     {
-                        Console.WriteLine($"*   {followerName}");
+                        Console.WriteLine($"*  {followerName}");
                     }
                 }
                 counter++;

@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.EvenTimes", "04.EvenTime
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.CountSymbols", "05.CountSymbols\05.CountSymbols.csproj", "{3335B643-1DE6-4F8B-A8EF-C9BDBD463793}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Wardrobe", "06.Wardrobe\06.Wardrobe.csproj", "{55DE261E-966C-46CE-91AD-5DAAEEBC5B05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Wardrobe", "06.Wardrobe\06.Wardrobe.csproj", "{55DE261E-966C-46CE-91AD-5DAAEEBC5B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TheVLogger", "07.TheVLogger\07.TheVLogger.csproj", "{9BA66574-1D62-40D4-A1D4-EE2322A3B863}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.TheVLogger", "07.TheVLogger\07.TheVLogger.csproj", "{9BA66574-1D62-40D4-A1D4-EE2322A3B863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Ranking", "08.Ranking\08.Ranking.csproj", "{9C8EF5C7-E9DC-4FCD-86E7-C983D84971C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9BA66574-1D62-40D4-A1D4-EE2322A3B863}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA66574-1D62-40D4-A1D4-EE2322A3B863}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA66574-1D62-40D4-A1D4-EE2322A3B863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8EF5C7-E9DC-4FCD-86E7-C983D84971C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8EF5C7-E9DC-4FCD-86E7-C983D84971C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8EF5C7-E9DC-4FCD-86E7-C983D84971C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8EF5C7-E9DC-4FCD-86E7-C983D84971C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
